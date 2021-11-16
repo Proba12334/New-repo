@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FILMOVI\\psw\\Hospital\\Hospital API\\Hospital API\\Hospital API.csproj": {}
+    "D:\\FILMOVI\\psw\\New-repo\\Hospital API\\Hospital API\\Hospital API.csproj": {}
   },
   "projects": {
-    "D:\\FILMOVI\\psw\\Hospital\\Hospital API\\Hospital API\\Hospital API.csproj": {
+    "D:\\FILMOVI\\psw\\New-repo\\Hospital API\\Hospital API\\Hospital API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FILMOVI\\psw\\Hospital\\Hospital API\\Hospital API\\Hospital API.csproj",
+        "projectUniqueName": "D:\\FILMOVI\\psw\\New-repo\\Hospital API\\Hospital API\\Hospital API.csproj",
         "projectName": "Hospital API",
-        "projectPath": "D:\\FILMOVI\\psw\\Hospital\\Hospital API\\Hospital API\\Hospital API.csproj",
+        "projectPath": "D:\\FILMOVI\\psw\\New-repo\\Hospital API\\Hospital API\\Hospital API.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\FILMOVI\\psw\\Hospital\\Hospital API\\Hospital API\\obj\\",
+        "outputPath": "D:\\FILMOVI\\psw\\New-repo\\Hospital API\\Hospital API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
