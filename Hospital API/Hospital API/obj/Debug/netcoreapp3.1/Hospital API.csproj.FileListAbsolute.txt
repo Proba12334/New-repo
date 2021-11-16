@@ -1,21 +1,20 @@
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\appsettings.json
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.exe
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.deps.json
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.runtimeconfig.json
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.runtimeconfig.dev.json
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.dll
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.pdb
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.csproj.AssemblyReference.cache
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.GeneratedMSBuildEditorConfig.editorconfig
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.AssemblyInfoInputs.cache
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.AssemblyInfo.cs
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.csproj.CoreCompileInputs.cache
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.MvcApplicationPartsAssemblyInfo.cache
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital API.StaticWebAssets.Manifest.cache
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital API.StaticWebAssets.xml
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hospital API.styles.css
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.RazorTargetAssemblyInfo.cache
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.dll
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.pdb
-D:\FAKS\7.semestat\psw\firma 7\Hospital-API\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.genruntimeconfig.cache
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.exe
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.deps.json
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.runtimeconfig.json
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.runtimeconfig.dev.json
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.dll
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\bin\Debug\netcoreapp3.1\Hospital API.pdb
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.csprojAssemblyReference.cache
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.csproj.CoreCompileInputs.cache
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.MvcApplicationPartsAssemblyInfo.cache
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.AssemblyInfoInputs.cache
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.AssemblyInfo.cs
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.RazorTargetAssemblyInfo.cache
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital API.StaticWebAssets.Manifest.cache
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\staticwebassets\Hospital API.StaticWebAssets.xml
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.dll
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.pdb
+D:\FILMOVI\psw\Hospital\Hospital API\Hospital API\obj\Debug\netcoreapp3.1\Hospital API.genruntimeconfig.cache
